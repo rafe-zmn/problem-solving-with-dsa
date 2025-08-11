@@ -1,30 +1,27 @@
 # problem-solving-with-dsa
 
-This repository contains my personal solutions to Data Structures and Algorithms (DSA) problems, categorized by **topic** and **difficulty level**.  
-The goal of this repository is to improve my problem-solving skills and coding efficiency while building a public portfolio of my work.
+This repository contains my solutions to Data Structures and Algorithms (DSA) problems, organized by topic and difficulty to track my learning and improve problem-solving skills.
 
 ---
 
 ## 📂 Repository Structure
 
 problem-solving-with-dsa/
-│
 ├── arrays/
-│ ├── Warm-Up/
-│ │ └── two_sum.py
-│ ├── Mid Quest/
-│ │ └── subarray_sum_equals_k.py
-│ └── Advanced Battles/
-│ └── trapping_rain_water.py
-│
-├── linked-lists/
-│ ├── Warm-Up/
-│ │ └── reverse_linked_list.py
-│ ├── Mid-Quest/
-│ │ └── merge_two_sorted_lists.py
-│ └── Advanced Battles/
-│ └── lru_cache.py
-│
+│   ├── Warm-Up/
+│   │   └── two_sum.py
+│   ├── Mid Quest/
+│   │   └── subarray_sum_equals_k.py
+│   └── Advanced Battles/
+│       └── trapping_rain_water.py
+└── linked-lists/
+    ├── Warm-Up/
+    │   └── reverse_linked_list.py
+    ├── Mid Quest/
+    │   └── merge_two_sorted_lists.py
+    └── Advanced Battles/
+        └── lru_cache.py
+
 
 ---
 
