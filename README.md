@@ -1,16 +1,17 @@
 # problem-solving-with-dsa
 
-A collection of solved **Data Structures & Algorithms** problems, organized by difficulty and topic.  
-This repository is a personal archive of my problem-solving practice
+This repository contains my personal solutions to **Data Structures and Algorithms (DSA)** problems, categorized by **topic** and **difficulty level**.  
+The purpose of this repository is to enhance my **problem-solving skills**, strengthen my understanding of algorithms, and serve as a **public portfolio** of my coding journey.
 
 ---
 
-##  Purpose
+## Goals
 
-- Practice **problem-solving skills**
-- Improve **algorithmic thinking**
-- Track **progress over time**
-- Build **speed & accuracy** 
+- Solve at least **5 DSA problems per week**  
+- Practice a balanced mix of **Easy, Medium, and Hard** problems  
+- Maintain **clean, readable, and well-commented code**  
+- Track and measure my **growth in problem-solving skills over time**  
+
 ---
 
 ## Topics Practiced
@@ -34,7 +35,6 @@ This repository is a personal archive of my problem-solving practice
 - **Mid-Level Challenges:** Medium difficulty, core data structures & algorithms  
 - **Advanced Battles:** Hard problems requiring complex logic and optimizations  
 
-
 ---
 
 ## Repository Structure
@@ -56,7 +56,6 @@ problem-solving-with-dsa/
     └── Advanced Battles/
         └── lru_cache.py
 ```
-
 ---
 
 ## Tech Stack
@@ -68,7 +67,6 @@ problem-solving-with-dsa/
   - Problem sources: [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/), [Codeforces](https://codeforces.com/), [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 ---
-
 ## Problem Format
 
 Each file contains:
@@ -81,7 +79,7 @@ Source: LeetCode #1 (https://leetcode.com/problems/two-sum/)
 ```
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. **Clone the repository**
    ```bash
@@ -93,12 +91,9 @@ Source: LeetCode #1 (https://leetcode.com/problems/two-sum/)
 4. **Run a specific Python file**
    ```bash
    python arrays/Warm-Up/two_sum.py
-
-
-
 ---
 
-##  Progress
+## Progress
 
 | Difficulty           | Problems Solved |
 |----------------------|-----------------|
@@ -109,7 +104,7 @@ Source: LeetCode #1 (https://leetcode.com/problems/two-sum/)
 
 ---
 
-##  Contact
+## Contact
 
 If you want to connect or provide feedback, feel free to reach out:
 
