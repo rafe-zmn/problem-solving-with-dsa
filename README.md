@@ -13,7 +13,7 @@ This repository is a personal archive of my problem-solving practice
 - Build **speed & accuracy** 
 ---
 
-## 🛠️ Topics Practiced
+## Topics Practiced
 
 - Arrays & Strings  
 - Linked Lists  
@@ -37,9 +37,9 @@ This repository is a personal archive of my problem-solving practice
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
-```text
+```
 problem-solving-with-dsa/
 ├── arrays/
 │   ├── Warm-Up/
