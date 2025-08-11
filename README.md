@@ -6,6 +6,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 
 ## 📂 Repository Structure
 
+```text
 problem-solving-with-dsa/
 ├── arrays/
 │   ├── Warm-Up/
@@ -21,6 +22,7 @@ problem-solving-with-dsa/
     │   └── merge_two_sorted_lists.py
     └── Advanced Battles/
         └── lru_cache.py
+```
 
 ---
 
@@ -51,3 +53,18 @@ Problem: Given an array of integers, return indices of the two numbers such that
 Difficulty: Easy
 Source: LeetCode #1 (https://leetcode.com/problems/two-sum/)
 """
+```
+---
+
+## ▶️ How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/problem-solving-with-dsa.git
+   
+2. **Navigate to the folder**
+   cd problem-solving-with-dsa
+3. **Run a specific Python file**
+   python arrays/Warm-Up/two_sum.py
+
+
