@@ -1,6 +1,39 @@
 # problem-solving-with-dsa
 
-This repository contains my solutions to Data Structures and Algorithms (DSA) problems, organized by topic and difficulty to track my learning and improve problem-solving skills.
+A collection of solved **Data Structures & Algorithms** problems, organized by difficulty and topic.  
+This repository is a personal archive of my problem-solving practice
+
+---
+
+##  Purpose
+
+- Practice **problem-solving skills**
+- Improve **algorithmic thinking**
+- Track **progress over time**
+- Build **speed & accuracy** 
+---
+
+## 🛠️ Topics Practiced
+
+- Arrays & Strings  
+- Linked Lists  
+- Stacks & Queues  
+- Trees & Graphs  
+- Hash Tables & Heaps  
+- Recursion & Backtracking  
+- Sorting & Searching  
+- Dynamic Programming  
+- Greedy Algorithms  
+- Graph Traversals (BFS, DFS)
+
+---
+
+## Categories
+
+- **Warm-Up:** Easy-level problems focusing on fundamentals  
+- **Mid-Level Challenges:** Medium difficulty, core data structures & algorithms  
+- **Advanced Battles:** Hard problems requiring complex logic and optimizations  
+
 
 ---
 
@@ -23,14 +56,6 @@ problem-solving-with-dsa/
     └── Advanced Battles/
         └── lru_cache.py
 ```
-
----
-
-## Categories
-
-- **Warm-Up** → Basic implementation and simple logic  
-- **Mid Quest** → Requires optimization or multiple concepts combined  
-- **Advanced Battles** → Complex algorithms, multiple data structures, or advanced logic
 
 ---
 
@@ -63,8 +88,32 @@ Source: LeetCode #1 (https://leetcode.com/problems/two-sum/)
    git clone https://github.com/yourusername/problem-solving-with-dsa.git
    
 2. **Navigate to the folder**
+   ```bash
    cd problem-solving-with-dsa
-3. **Run a specific Python file**
+4. **Run a specific Python file**
+   ```bash
    python arrays/Warm-Up/two_sum.py
 
 
+
+---
+
+##  Progress
+
+| Difficulty           | Problems Solved |
+|----------------------|-----------------|
+| Warm-Up              | 00              |
+| Mid-Level Challenges | 00              |
+| Advanced Battles     | 00              |
+
+
+---
+
+##  Contact
+
+If you want to connect or provide feedback, feel free to reach out:
+
+- **Name:** Rafe Zaman  
+- **Email:** rafe.zaman01@gmail.com 
+- **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/rafe-zaman)  
+- **GitHub:** [github.com/your-username](https://github.com/rafe-zmn)
