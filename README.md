@@ -110,5 +110,5 @@ If you want to connect or provide feedback, feel free to reach out:
 
 - **Name:** Rafe Zaman  
 - **Email:** rafe.zaman01@gmail.com 
-- **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/rafe-zaman)  
-- **GitHub:** [github.com/your-username](https://github.com/rafe-zmn)
+- **LinkedIn:** [linkedin.com/in/rafe-zaman](www.linkedin.com/in/rafe-zaman)  
+- **GitHub:** [github.com/rafe-zmn](https://github.com/rafe-zmn)
