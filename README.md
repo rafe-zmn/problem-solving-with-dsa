@@ -97,7 +97,7 @@ Source: LeetCode #1 (https://leetcode.com/problems/two-sum/)
 
 | Difficulty           | Problems Solved |
 |----------------------|-----------------|
-| Warm-Up              | 00              |
+| Warm-Up              | 01              |
 | Mid-Level Challenges | 00              |
 | Advanced Battles     | 00              |
 
